@@ -1,1 +1,1 @@
-# Unit tests for square calculator that written on C#
+Tests for square function (C#)
